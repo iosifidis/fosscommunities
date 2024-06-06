@@ -1,7 +1,12 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
+#ruby ">=2.4"
 
-# to publish on github page
-gem 'github-pages', group: :jekyll_plugins
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+gem "jekyll"
+gem 'jekyll-feed'
+gem 'jemoji'
+gem 'webrick'
 
-# to publich without github page
-#gem "jekyll"
+# gem "rails"
