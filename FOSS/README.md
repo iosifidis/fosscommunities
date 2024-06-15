@@ -2,10 +2,12 @@
 sort: 1
 ---
 
-# ΤΕΚΜΗΡΙΩΣΗ
+# ΧΤΙΖΟΝΤΑΣ ΜΙΑ ΚΟΙΝΟΤΗΤΑ ΕΛΕΥΘΕΡΟΥ ΛΟΓΙΣΜΙΚΟΥ - ΛΟΓΙΣΜΙΚΟΥ ΑΝΟΙΚΤΟΥ ΚΩΔΙΚΑ
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
 ```
 
+```
 {% include list.liquid all=true %}
+```
