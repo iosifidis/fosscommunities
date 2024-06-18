@@ -27,3 +27,7 @@
 Η μελέτη καταλήγει σε συμπεράσματα και προτάσεις για τη βελτίωση των υπαρχουσών κοινοτήτων ελεύθερου λογισμικού και τη δημιουργία νέων. Αναγνωρίζει τη σημασία της ανοιχτής συνεργασίας, της διαφάνειας και της συνεχούς υποστήριξης των μελών. Προτείνει επίσης συγκεκριμένα μέτρα που μπορούν να ληφθούν για την ενίσχυση της δέσμευσης και της συμμετοχής των μελών, όπως η διοργάνωση εκδηλώσεων, η παροχή πόρων και η δημιουργία ευκαιριών για επαγγελματική ανάπτυξη.
 
 Η δημιουργία και συντήρηση μιας κοινότητας ελεύθερου λογισμικού είναι μια πολύπλοκη διαδικασία που απαιτεί στρατηγική σκέψη, καλή οργάνωση και συνεχή προσπάθεια. Ωστόσο, με τις σωστές πρακτικές, οι κοινότητες αυτές μπορούν να γίνουν ισχυροί κόμβοι καινοτομίας και συνεργασίας.
+
+# ΑΔΕΙΑ
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
