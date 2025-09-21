@@ -27,7 +27,6 @@ group :jekyll_plugins do
   # Αφαιρέσαμε το github-pages και προσθέτουμε το jekyll-github-metadata απευθείας
   gem "jekyll-github-metadata"
 end
-end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
